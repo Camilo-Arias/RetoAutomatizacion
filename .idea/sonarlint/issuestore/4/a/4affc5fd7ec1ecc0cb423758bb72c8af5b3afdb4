@@ -1,0 +1,14 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş«°J$ee361d80-6e3e-4863-93a8-75ad23bdff40
+‚
+java:S3457P"AFormat specifiers should be used instead of string concatenation.(»­‚ÔıÿÿÿÿJ$afb633f1-a530-4ee2-9084-638342447e2d
+‚
+java:S3457|"AFormat specifiers should be used instead of string concatenation.(ƒ¦¸ÔÿÿÿÿÿJ$b054061d-b6bd-4271-9531-276ff465a631
+~
+java:S3457£"AFormat specifiers should be used instead of string concatenation.(á¡Ğ—J$370c99fb-6b61-4c8c-9cc0-ba5979608c45
+~
+java:S3457Ô"AFormat specifiers should be used instead of string concatenation.(©ĞšÉJ$7c3aa642-4c8d-4baa-a94c-277f0ff8a461
+w
+java:S1068"6Remove this unused "mapDatosCasoPrueba" private field.(É»ÒûÿÿÿÿJ$fc6a0df1-f5c6-4e20-8635-4ac10a2100eb
+e
+java:S1068"*Remove this unused "IGNORE" private field.(¶¥¼eJ$5f7ddaa0-f6d5-4525-aa10-b43ce3f50ba3

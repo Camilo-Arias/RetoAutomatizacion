@@ -1,0 +1,11 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•±õ­ùÿÿÿÿ8‚Ô«œ¤2J$eb1da234-2d08-4b0c-82d1-19884cf4c56f
+Ä
+java:S1186""€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•áø¯8Å†°Ÿ¤2J$6d984a18-f891-4278-a387-7ecef4d0686a
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔŠ¦õ8‚Ô«œ¤2J$0f511962-d710-4fdc-bfc0-fd28d684897d
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÅ‡Ò8Ë†°Ÿ¤2J$1bfe7b60-2176-4d01-9463-69c0eafea9b5
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éğŸÇ8Ì†°Ÿ¤2J$263b57fd-2414-4d2d-99d6-3799740812a8
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ÷†8Î†°Ÿ¤2J$380862f4-4a89-49b4-a517-e1f6d511497f
+	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•áø¯8Ï†°Ÿ¤2J$2531002c-e630-4e20-b0ce-5fa256218ad7
+’
+java:S1128"JRemove this unused import 'net.thucydides.core.util.EnvironmentVariables'.(ÏÕ¸ğúÿÿÿÿ8úô¯Ÿ¤2J$a064cdd3-3b9d-4231-874b-c0e276c5844a

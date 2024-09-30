@@ -1,0 +1,11 @@
+
+΅	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•±υ­ωÿÿÿÿ8ζ²ο΅¤2J$8fbc3d58-b2fb-467b-8c57-78bf88a5b16b
+Δ
+java:S11861"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(τΪΑ8ν²ο΅¤2J$398c372c-d689-4761-a0a4-26c1655a7a8b
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ν«¥‘8ς²ο΅¤2J$afd1242e-c1d4-4889-b5b2-9ff2cb96b254
+•	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ϋθ¬λϋÿÿÿÿ8τ²ο΅¤2J$fac0320c-cb59-4efb-aac7-22eae0233b22
+•	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Τ«¥ώÿÿÿÿÿ8τ²ο΅¤2J$7d68659b-16a2-44fc-9f04-976b9aaa535d
+	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(τΪΑ8υ²ο΅¤2J$c8fa26f3-b083-4300-a95f-2baadcd5a554
+‡
+java:S1128
+"?Remove this unused import 'org.openqa.selenium.support.FindBy'.(¶Ί΄ιωÿÿÿÿ8ρ­¬£¤2J$08450bd1-fbd8-4d14-9c80-c60930025acf
