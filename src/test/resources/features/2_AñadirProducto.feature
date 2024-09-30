@@ -1,4 +1,4 @@
-@Login&CreateUser
+@E2E
 Feature: Comprar producto
 
   Background: Validar compra con usuario creado

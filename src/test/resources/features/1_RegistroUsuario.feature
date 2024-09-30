@@ -1,4 +1,4 @@
-@Login&CreateUser
+@E2E
 Feature: Crear nuevo usuario
 
   Background: Validar Creacion de nuevo usuario
